@@ -1,3 +1,3 @@
 # Apalabrados
 
-![](/Apalabrados.drawio.png)
+![](/Nuevo.drawio.png)

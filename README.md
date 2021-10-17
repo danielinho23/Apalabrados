@@ -1,3 +1,3 @@
 # Apalabrados
 
-![Alt text here](images/someimage.png)
+![Alt text here](images/Apalabrados.drawio.png)

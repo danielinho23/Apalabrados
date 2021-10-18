@@ -28,7 +28,7 @@ Then, there is an input tha should be analized by the algorithm to store it in o
   
 ![](/Nuevo.drawio.png)
 
-## General Info
+## Setup
 
 To run this project, install locally the libraries shown below:
 

@@ -1,10 +1,12 @@
 # Apalabrados
 
+## Introduction
+
 The code and the flow chart shows the logic procedure to create a database with three tables:
 
-  Numbers. Columns: number - acumulate
-  Text. Columns: text - start - end
-  Characters. Columns: character
+ * Numbers. Columns: number - acumulate
+ * Text. Columns: text - start - end
+ * Characters. Columns: character
 
 Then, there is an input tha should be analized by the algorithm to store it in on of the tables above. It depends on:
 

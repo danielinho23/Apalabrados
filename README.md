@@ -27,3 +27,12 @@ Then, there is an input tha should be analized by the algorithm to store it in o
 ### Flowchart
   
 ![](/Nuevo.drawio.png)
+
+## General Info
+
+To run this project, install locally the libraries shown below:
+
+ * Pandas
+ * Numpy
+
+Then, you can copy and paste the code atached to the file apalabrados.py in a text editor of your preference. Finally, you will be able to run the program and test it.
